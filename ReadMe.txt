@@ -1,1 +1,2 @@
-Loan Payoff Calc by Dustin McDaniel
+Loan Payoff Calc by Dustin McDaniel 
+Written in C++
